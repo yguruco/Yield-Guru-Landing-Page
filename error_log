@@ -1,0 +1,27 @@
+[16-Jul-2024 09:12:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php on line 33
+[12-Aug-2024 05:01:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php on line 33
+[01-Oct-2024 19:31:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/wp-settings.php on line 33
+[19-Jan-2025 17:46:00 UTC] PHP Warning:  require(/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13
+[19-Jan-2025 17:46:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13
+[19-Jan-2025 17:46:00 UTC] PHP Warning:  require(/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13
+[19-Jan-2025 17:46:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13
+[19-Jan-2025 17:46:07 UTC] PHP Warning:  require(/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13
+[19-Jan-2025 17:46:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cehgkbbi46qr/public_html/yieldguru.networkPHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/index.php on line 13

@@ -1,0 +1,6 @@
+[04-Feb-2025 08:08:30 UTC] PHP Warning:  Undefined variable $loggedIn in /home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/index.php on line 308
+[04-Feb-2025 08:09:21 UTC] PHP Warning:  require(/home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/index.php on line 12
+[04-Feb-2025 08:09:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cehgkbbi46qr/public_html/yieldguru.network/buy-community-token/index.php on line 12
